@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script:wght@400;500&family=Unica+One&family=Varela+Round&display=swap');
+
+body{
+    background-color: #c7baaae8;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    font-family: 'Varela Round', sans-serif;
+}
+nav ul li{
+    padding: 0 12px;
+}
+nav ul{
+    display:flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: black;
+    color: whitesmoke;
+}
+.brand img{
+    width: 64px;
+    
+}
+.container
+{
+    font-family: 'Caveat', cursive;
+}
+.brand{
+    display: flex;
+    font-family: 'Unica One', cursive;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.9rem;
+}
