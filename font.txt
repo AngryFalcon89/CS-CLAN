@@ -1,0 +1,4 @@
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Unica One', cursive;
+font-family: 'Varela Round', sans-serif;
