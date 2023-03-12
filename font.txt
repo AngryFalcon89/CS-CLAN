@@ -2,3 +2,4 @@ font-family: 'Caveat', cursive;
 font-family: 'Dancing Script', cursive;
 font-family: 'Unica One', cursive;
 font-family: 'Varela Round', sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script:wght@400;500&family=Unica+One&family=Varela+Round&display=swap");
